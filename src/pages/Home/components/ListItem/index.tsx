@@ -12,8 +12,6 @@ interface ListItemProps extends TouchableOpacityProps {
     image: string,
 }
 
-
-
 const ListItem: React.FC<ListItemProps> = ({name,image,...rest}) => {
 
   return (

@@ -14,7 +14,6 @@ import styles from './styles';
 const AnimatedLinearGradient = Animated.createAnimatedComponent(LinearGradient)
 
 const NewUser: React.FC = () => {
-  const [loading, setLoading] = useState(false);
   const [translateY] = useState(new Animated.Value(1200));
   const [opacity] = useState(new Animated.Value(0));
 

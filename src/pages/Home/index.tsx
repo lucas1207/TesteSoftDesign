@@ -20,7 +20,6 @@ export default function App() {
   const insets = useSafeAreaInsets();
   const [listData,setListData] = useState([])
   const [loading,setLoading] = useState(false)
-  const [footerLoading, setFooterLoading] = useState(false)
   const dispatch = useDispatch();
 
 
@@ -90,7 +89,7 @@ export default function App() {
     colors={['#EB3030', '#520105']}
     style={[styles.container, { paddingTop: insets.top }]}
     >
-        <FlatList
+      <FlatList
         style={styles.flatList}
         onEndReached={loadData}
         ListFooterComponent={renderFooter}
@@ -107,7 +106,8 @@ export default function App() {
         keyExtractor={(item) => item.id.toString()}
         ItemSeparatorComponent={()=> <View style={{height:1, width:'90%', alignSelf: 'center', backgroundColor: '#ffffff40'}} />}
         >
-        </FlatList>
+      </FlatList>
+      
     </LinearGradient>
     {renderDetails && <HeroDetails />}
 
