@@ -5,14 +5,22 @@
 # TesteSoftDesign
 Teste de React-Native para a empresa SoftDesign
 
-Para a construção deste app foi utilizada a API da Marvel
+Para a construção deste app foi utilizada a API da Marvel.
 
 ( mais informações no link https://developer.marvel.com/documentation/getting_started )
+<br />
+<br />
 
 
 
 
-Como é uma lista de todos os heróis da empresa, alguns não possuem imagem e/ou descrição
+Como é uma lista de todos os heróis da empresa, alguns não possuem imagem e/ou descrição.
+<br />
+
+Ficaram faltando no aplicativo os testes unitários, que não tenho total dominio.
+
+<br />
+<br />
 
 O aplicativo foi feito com expo, segue um passo a passo de como instalar e rodar na máquina:
 
