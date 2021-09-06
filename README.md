@@ -29,5 +29,5 @@ O aplicativo foi feito com expo, segue um passo a passo de como instalar e rodar
 
 
 
-Segue abaixo um giff do aplicativo rodando 
-https://user-images.githubusercontent.com/47782435/132162193-01735984-7a14-4f31-9140-9f8f9612b3fc.mp4
+Segue abaixo um gif do aplicativo rodando 
+![alt-text](https://github.com/lucas1207/TesteSoftDesign/blob/master/gifApp.gif)
