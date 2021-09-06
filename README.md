@@ -1,3 +1,7 @@
+
+
+
+
 # TesteSoftDesign
 Teste de React-Native para a empresa SoftDesign
 
@@ -19,3 +23,11 @@ O aplicativo foi feito com expo, segue um passo a passo de como instalar e rodar
     Ler o qrcode com o aplicativo Expo Go ( ou com a câmera do celular se for um Iphone)
 
 ( Talvez seja necessário alterar para Tunel dentro da pagina da expo conforme a imagem abaixo. )
+
+
+
+
+
+
+Segue abaixo um giff do aplicativo rodando 
+https://user-images.githubusercontent.com/47782435/132162193-01735984-7a14-4f31-9140-9f8f9612b3fc.mp4
