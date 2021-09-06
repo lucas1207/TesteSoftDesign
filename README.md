@@ -6,16 +6,16 @@ Como é uma lista de todos os heróis da empresa, alguns não possuem imagem e/o
 
 O aplicativo foi feito com expo, segue um passo a passo de como instalar e rodar na máquina:
 
-Instalar o Node.js caso não tenha na máquina ( https://nodejs.org/en/download/ )
+    Instalar o Node.js caso não tenha na máquina ( https://nodejs.org/en/download/ )
 
-Rodar no terminal o comando npm install --global expo-cli
+    Rodar no terminal o comando npm install --global expo-cli
 
-Rodar o comando npm install na pasta do projeto
+    Rodar o comando npm install na pasta do projeto
 
-Instalar o aplicativo Expo Go no celular
+    Instalar o aplicativo Expo Go no celular
 
-Rodar o comando expo start na pasta do projeto
+    Rodar o comando expo start na pasta do projeto
 
-Ler o qrcode com o aplicativo Expo Go ( ou com a câmera do celular se for um Iphone)
+    Ler o qrcode com o aplicativo Expo Go ( ou com a câmera do celular se for um Iphone)
 
 ( Talvez seja necessário alterar para Tunel dentro da pagina da expo conforme a imagem abaixo. )
