@@ -24,10 +24,16 @@ O aplicativo foi feito com expo, segue um passo a passo de como instalar e rodar
 
 ( Talvez seja necessário alterar para Tunel dentro da pagina da expo conforme a imagem abaixo. )
 
-
+![Capturar](https://user-images.githubusercontent.com/47782435/132162799-4acd10c5-aa3f-4aca-b6a0-bcaaf53ae012.PNG)
 
 
 
 
 Segue abaixo um gif do aplicativo rodando 
+
+
+
+
+
+
 ![alt-text](https://github.com/lucas1207/TesteSoftDesign/blob/master/gifApp.gif)
